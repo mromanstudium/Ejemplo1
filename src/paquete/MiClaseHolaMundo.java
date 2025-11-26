@@ -7,6 +7,9 @@ public class MiClaseHolaMundo {
 		System.out.print("desde la rama nueva");
 		System.out.print("subida issue");
 		System.out.print("subida issue223");
+		
+		//implementar el botón de guardar partida
+		//este es el codigo del boton de guardar.
 	}
 
 }
