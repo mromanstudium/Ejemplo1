@@ -10,6 +10,9 @@ public class MiClaseHolaMundo {
 		
 		//implementar el botón de guardar partida
 		//este es el codigo del boton de guardar.
+		
+		
+		//desarrollo la notificacion que piden en la tarea.
 	}
 
 }
